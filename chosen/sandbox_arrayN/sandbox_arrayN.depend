@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643277191 source:d:\projects\cb-c\chosen\sandbox_arrayn\main.c
+	<stdio.h>
+	<stdlib.h>
+

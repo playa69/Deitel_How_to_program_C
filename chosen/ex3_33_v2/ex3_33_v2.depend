@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642363455 source:d:\projects\cb-c\paragraph3\ex3_33_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642364157 source:d:\projects\cb-c\chosen\ex3_33_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+

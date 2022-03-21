@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643747793 source:d:\projects\cb-c\paragraph4\ex4_31_murderer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1644064763 source:d:\projects\cb-c\chosen\ex4_31_murderer\main.c
+	<stdio.h>
+	<stdlib.h>
+

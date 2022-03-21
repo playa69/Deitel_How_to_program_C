@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642271766 source:d:\projects\cb-c\paragraph3\ex3_26trenirovka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

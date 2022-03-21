@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643469759 source:d:\projects\cb-c\chosen\deci_to_bin\main.c
+	<stdio.h>
+	<stdlib.h>
+
