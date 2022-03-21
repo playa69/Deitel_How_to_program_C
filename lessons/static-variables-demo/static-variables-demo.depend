@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645263664 source:d:\projects\cb-c\lessons\static-variables-demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

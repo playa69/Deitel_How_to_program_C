@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639823597 source:d:\projects\cb-c\types-and-conversions\main.c
+	<stdio.h>
+	<stdlib.h>
+

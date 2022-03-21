@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640423942 source:d:\projects\cb-c\paragraph3\sqrt_trick\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
